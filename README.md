@@ -60,5 +60,28 @@ It fulfills all primary and secondary KPI requirements as per the provided case 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project 
+📁 Road-Accident-Dashboard
+├── 📄 README.md
+├── 📊 Road Accident Data.xlsx
+├── 🖼️ Road Accident Analysis.png
+
+yaml
+
+---
+
+## 🧠 Keywords & SEO Tags
+
+`Manish Singh`, `Data Analytics`, `Excel Dashboard`, `Road Accident Analysis`, `Data Visualization`, `Data Science Portfolio`, `Advanced Excel Project`, `Business Intelligence`, `KPI Dashboard`, `Manish Singh Data Analytics`
+
+---
+
+## 📢 Hashtags
+
+#ExcelDashboard #DataAnalytics #RoadAccidentAnalysis #ManishSingh #AdvancedExcel #DataScience #ExcelProjects #DashboardDesign #BI #DataVisualization #AnalyticsPortfolio #ManishSinghData #ExcelForDataScience
+
+---
+
+Feel free to ⭐ this repository if you found it helpful or inspiring!
+
 
