@@ -56,8 +56,8 @@ It fulfills all primary and secondary KPI requirements as per the provided case 
 
 👨‍💻 **Manish Singh**  
 📍 *Aspiring Data Scientist | Excel & BI Enthusiast*  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/manishsingh22/])
-
+🔗 [LinkedIn Profile]([[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/manishsingh22/
+)]
 ---
 
 ## 📂 Project 
